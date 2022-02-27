@@ -1,0 +1,4 @@
+---
+# defaults file for collections/ansible_collections/my_own_namespace/yandex_cloud_elk/roles/my_module
+  path: /tmp/default.txt
+  content: "DEFAULT Proverka module my_own_module"

@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: root
+  roles:
+    - collections/ansible_collections/my_own_namespace/yandex_cloud_elk/roles/my_module
